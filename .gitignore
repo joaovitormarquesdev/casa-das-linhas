@@ -1,0 +1,9 @@
+# Ferramentas locais
+.claude/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
